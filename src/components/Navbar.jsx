@@ -127,7 +127,7 @@ const CombineIcon = styled.div`
             <Items>
                 <Not><NotificationsNoneOutlined  className='notification' /> </Not>
                 <CombineIcon>
-                    <img className='profile' src='https://library.kissclipart.com/20180919/xae/kissclipart-male-avatar-icon-clipart-computer-icons-avatar-104635e37f6b2f94.png'/>
+                    <img alt='avatar' className='profile' src='https://library.kissclipart.com/20180919/xae/kissclipart-male-avatar-icon-clipart-computer-icons-avatar-104635e37f6b2f94.png'/>
                     <Settings className='settings'/>
                 </CombineIcon>
             </Items>
